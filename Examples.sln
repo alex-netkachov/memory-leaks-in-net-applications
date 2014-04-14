@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHandlers", "EventHandlers\EventHandlers.csproj", "{4B87CD64-206F-4F37-B755-7FE64A7CBB4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockedFinalizationThread", "BlockedFinalizationThread\BlockedFinalizationThread.csproj", "{24CE1F75-40E5-4BC1-8DFC-D7CA222FAAE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateAssemblies", "CreateAssemblies\CreateAssemblies.csproj", "{DDA2CB84-FFF6-438E-BC46-FD0AEE7B616F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fragmentation", "Fragmentation\Fragmentation.csproj", "{99226FBC-4FC5-4ACB-9358-69A5F97E5C2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B87CD64-206F-4F37-B755-7FE64A7CBB4C}.Debug|x86.ActiveCfg = Debug|x86
+		{4B87CD64-206F-4F37-B755-7FE64A7CBB4C}.Debug|x86.Build.0 = Debug|x86
+		{4B87CD64-206F-4F37-B755-7FE64A7CBB4C}.Release|x86.ActiveCfg = Release|x86
+		{4B87CD64-206F-4F37-B755-7FE64A7CBB4C}.Release|x86.Build.0 = Release|x86
+		{24CE1F75-40E5-4BC1-8DFC-D7CA222FAAE9}.Debug|x86.ActiveCfg = Debug|x86
+		{24CE1F75-40E5-4BC1-8DFC-D7CA222FAAE9}.Debug|x86.Build.0 = Debug|x86
+		{24CE1F75-40E5-4BC1-8DFC-D7CA222FAAE9}.Release|x86.ActiveCfg = Release|x86
+		{24CE1F75-40E5-4BC1-8DFC-D7CA222FAAE9}.Release|x86.Build.0 = Release|x86
+		{DDA2CB84-FFF6-438E-BC46-FD0AEE7B616F}.Debug|x86.ActiveCfg = Debug|x86
+		{DDA2CB84-FFF6-438E-BC46-FD0AEE7B616F}.Debug|x86.Build.0 = Debug|x86
+		{DDA2CB84-FFF6-438E-BC46-FD0AEE7B616F}.Release|x86.ActiveCfg = Release|x86
+		{DDA2CB84-FFF6-438E-BC46-FD0AEE7B616F}.Release|x86.Build.0 = Release|x86
+		{99226FBC-4FC5-4ACB-9358-69A5F97E5C2A}.Debug|x86.ActiveCfg = Debug|x86
+		{99226FBC-4FC5-4ACB-9358-69A5F97E5C2A}.Debug|x86.Build.0 = Debug|x86
+		{99226FBC-4FC5-4ACB-9358-69A5F97E5C2A}.Release|x86.ActiveCfg = Release|x86
+		{99226FBC-4FC5-4ACB-9358-69A5F97E5C2A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
